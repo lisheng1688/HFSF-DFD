@@ -1,3 +1,3 @@
-# HFSF-DFD: A Hybrid High-Frequency and Semantic Feature Fusion Framework for Generalized DeepFake Detection
-# The entire codebase will be open-sourced shortly.
+# HFSF-DFD
+# We will release the code when the article is accepted.
 ![Visualization](visual.jpg)
